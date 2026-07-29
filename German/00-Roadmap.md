@@ -17,6 +17,28 @@
 
 ---
 
+## 📊 Program Structure
+
+Estimated lesson count per phase. Phase 1 is finalized (it's done); everything after that is a working estimate — actual lesson count will flex as topics turn out to need splitting or merging, and as spaced-repetition/review lessons get interspersed.
+
+| Phase | Focus | Lesson Range | Est. Lessons | Completed | Status |
+|---|---|---|---|---|---|
+| Phase 0 | Foundations (history, how German organizes ideas, pronunciation system) | Lessons 16–18 | 3 | 3 | ✅ **Complete** *(the Satzklammer piece was already folded into Lesson 1)* |
+| Phase 1 | The Sentence Machine (core syntax) | Lessons 1–9 | 9 | 9 | ✅ **Complete** |
+| Phase 2 | The Case System | Lessons 10–15 | 6 | 6 | ✅ **Complete** |
+| Phase 3 | Verbs in Depth (tenses, passive, Konjunktiv, participles) | Lessons ~19–~27 | ~9 | 0 | ⬜ Not started |
+| Phase 4 | Nouns, Adjectives, Gender | Lessons ~28–~31 | ~4 | 0 | ⬜ Not started |
+| Phase 5 | The Native Layer (particles, idioms, register, AT/CH differences) | Lessons ~32–~37 | ~6 | 0 | ⬜ Not started |
+| Phase 6 | Vocabulary as Systems | Lessons ~38–~41 | ~4 | 0 | ⬜ Not started |
+| Phase 7 | Skills Integration (listening, writing, thinking-in-German, immersion) | Lessons ~42–~46 | ~5 | 0 | ⬜ Not started |
+| **Total** | | | **~46** | **18** | **~39% through the estimated curriculum** |
+
+**Note on Phase 0:** the original curriculum design put Foundations first, but we started directly with Phase 1 (the syntax skeleton) since that's the highest-leverage starting point for someone already at A2.2–B1.1. Phase 0 has now been inserted at Lessons 16–~18, right after the case system wrapped up: Lesson 16 covered the history of German and the Germanic family tree; still to come are how German organizes ideas differently from Spanish/English, and a dedicated pronunciation/IPA lesson.
+
+*(Ongoing spaced-repetition review and real-life missions run throughout every phase and aren't counted as separate numbered lessons.)*
+
+---
+
 ## 🗺️ Full Roadmap
 
 ### Phase 0 — Foundations (how German is built, before diving into rules)
@@ -94,7 +116,7 @@
 
 | # | Lesson File | Topic | Phase | Status |
 |---|-------------|-------|-------|--------|
-| 1 | Lesson-01-Satzklammer-V2.md | The Satzklammer & V2 Word Order | Phase 0/1 | ✅ Done |
+| 1 | Lesson-01-Satzklammer-V2.md | The Satzklammer & V2 Word Order | Phase 1 *(Satzklammer topic also satisfies Phase 0)* | ✅ Done |
 | 2 | Lesson-02-Subordinate-Clauses.md | Subordinate Clauses & Verb-Final Order (weil/dass/wenn/ob/als) | Phase 1 | ✅ Done |
 | 3 | Lesson-03-Coordinating-Conjunctions.md | Coordinating Conjunctions (ADUSO) & denn vs weil | Phase 1 | ✅ Done |
 | 4 | Lesson-04-Questions.md | Questions: W-Fragen, Yes/No Inversion, Embedded Questions | Phase 1 | ✅ Done |
@@ -103,5 +125,14 @@
 | 7 | Lesson-07-Separable-Verbs.md | Separable & Inseparable Verb Prefixes | Phase 1 | ✅ Done |
 | 8 | Lesson-08-Reflexive-Verbs.md | Reflexive Verbs (accusative vs. dative reflexives) | Phase 1 | ✅ Done |
 | 9 | Lesson-09-Two-Objects.md | Two Objects: Dativ/Akkusativ Order & Pronoun Order | Phase 1 | ✅ Done — **Phase 1 complete** |
+| 10 | Lesson-10-Nominativ-Akkusativ.md | Why Cases Exist: Nominativ & Akkusativ | Phase 2 | ✅ Done |
+| 11 | Lesson-11-Dativ.md | Dativ — the "to/for" case, dative-only verbs | Phase 2 | ✅ Done |
+| 12 | Lesson-12-Genitiv.md | Genitiv — possession, formal register, von+Dativ colloquial swap | Phase 2 | ✅ Done |
+| 13 | Lesson-13-Fixed-Case-Prepositions.md | Prepositions That Always Take One Case (Akk. & Dat. lists) | Phase 2 | ✅ Done |
+| 14 | Lesson-14-Two-Way-Prepositions.md | Two-Way Prepositions (Wechselpräpositionen) — Movement vs. Location | Phase 2 | ✅ Done |
+| 15 | Lesson-15-Verb-Preposition-Combos.md | Verb + Preposition Combos, wo-/da-compounds | Phase 2 | ✅ Done — **Phase 2 complete** |
+| 16 | Lesson-16-German-History-Germanic-Family.md | History of German & the Germanic Family Tree | Phase 0 | ✅ Done |
+| 17 | Lesson-17-Thinking-In-German.md | How Germans Organize Ideas: Frame-First Thinking, Compounding, Directness | Phase 0 | ✅ Done |
+| 18 | Lesson-18-Sound-System.md | The Sound System: IPA, Vowels, Umlauts, Consonants, Stress | Phase 0 | ✅ Done — **Phase 0 complete** |
 
 *(New rows get added here as lessons are completed — always cross-check this table against the lesson files to see what's covered.)*

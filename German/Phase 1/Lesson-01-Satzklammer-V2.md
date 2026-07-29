@@ -1,6 +1,6 @@
 # Lesson 1 — The Skeleton of German: Why Sentences Are Built Backwards
 
-**Phase:** 0 / 1 — Foundations & The Sentence Machine
+**Phase:** 1 — The Sentence Machine *(the Satzklammer concept taught here also satisfies a Phase 0 foundations topic)*
 **Status:** ✅ Done
 
 ---
