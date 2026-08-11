@@ -1,3 +1,9 @@
+---
+title: "Lesson 16 — Where German Comes From: History & the Germanic Family Tree"
+layout: default
+nav_order: 0.1
+---
+
 # Lesson 16 — Where German Comes From: History & the Germanic Family Tree
 
 **Phase:** 0 — Foundations

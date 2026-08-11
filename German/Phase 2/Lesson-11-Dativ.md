@@ -1,3 +1,9 @@
+---
+title: "Lesson 11 — Dativ: The "To/For" Case"
+layout: default
+nav_order: 11
+---
+
 # Lesson 11 — Dativ: The "To/For" Case
 
 **Phase:** 2 — The Case System

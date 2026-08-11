@@ -1,3 +1,9 @@
+---
+title: "Lesson 17 — How Germans Organize Ideas: Thinking in a Different Shape"
+layout: default
+nav_order: 0.2
+---
+
 # Lesson 17 — How Germans Organize Ideas: Thinking in a Different Shape
 
 **Phase:** 0 — Foundations

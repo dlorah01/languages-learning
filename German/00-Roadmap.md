@@ -1,3 +1,9 @@
+---
+title: "Roadmap"
+layout: default
+nav_order: 0
+---
+
 # 🇩🇪 German as a Second Native Language — Roadmap
 
 **Learner profile:** Native Spanish speaker (Colombia), living in Germany long-term. English ~C1. German ~A2.2–B1.1.
@@ -26,14 +32,14 @@ Estimated lesson count per phase. Phase 1 is finalized (it's done); everything a
 | Phase 0 | Foundations (history, how German organizes ideas, pronunciation system) | Lessons 16–18 | 3 | 3 | ✅ **Complete** *(the Satzklammer piece was already folded into Lesson 1)* |
 | Phase 1 | The Sentence Machine (core syntax) | Lessons 1–9 | 9 | 9 | ✅ **Complete** |
 | Phase 2 | The Case System | Lessons 10–15 | 6 | 6 | ✅ **Complete** |
-| Phase 3 | Verbs in Depth (tenses, passive, Konjunktiv, participles) | Lessons ~19–~27 | ~9 | 0 | ⬜ Not started |
-| Phase 4 | Nouns, Adjectives, Gender | Lessons ~28–~31 | ~4 | 0 | ⬜ Not started |
+| Phase 3 | Verbs in Depth (tenses, passive, Konjunktiv, participles) | Lessons 19–27 | 9 | 9 | ✅ **Complete** |
+| Phase 4 | Nouns, Adjectives, Gender | Lessons 28–31 | 4 | 4 | ✅ **Complete** |
 | Phase 5 | The Native Layer (particles, idioms, register, AT/CH differences) | Lessons ~32–~37 | ~6 | 0 | ⬜ Not started |
 | Phase 6 | Vocabulary as Systems | Lessons ~38–~41 | ~4 | 0 | ⬜ Not started |
 | Phase 7 | Skills Integration (listening, writing, thinking-in-German, immersion) | Lessons ~42–~46 | ~5 | 0 | ⬜ Not started |
-| **Total** | | | **~46** | **18** | **~39% through the estimated curriculum** |
+| **Total** | | | **~46** | **31** | **~67% through the estimated curriculum** |
 
-**Note on Phase 0:** the original curriculum design put Foundations first, but we started directly with Phase 1 (the syntax skeleton) since that's the highest-leverage starting point for someone already at A2.2–B1.1. Phase 0 has now been inserted at Lessons 16–~18, right after the case system wrapped up: Lesson 16 covered the history of German and the Germanic family tree; still to come are how German organizes ideas differently from Spanish/English, and a dedicated pronunciation/IPA lesson.
+**Note on Phase 0:** the original curriculum design put Foundations first, but we started directly with Phase 1 (the syntax skeleton) since that's the highest-leverage starting point for someone already at A2.2–B1.1. Phase 0 was inserted at Lessons 16–18, right after the case system wrapped up, and is now complete: history of German & the Germanic family tree, how German organizes ideas differently from Spanish/English, and the sound system. On `index.md`, Phase 0 is listed *before* Phase 1 for logical reading order, even though it was taught later — this table (and the lesson numbers themselves) reflect the actual teaching order.
 
 *(Ongoing spaced-repetition review and real-life missions run throughout every phase and aren't counted as separate numbered lessons.)*
 
@@ -134,5 +140,18 @@ Estimated lesson count per phase. Phase 1 is finalized (it's done); everything a
 | 16 | Lesson-16-German-History-Germanic-Family.md | History of German & the Germanic Family Tree | Phase 0 | ✅ Done |
 | 17 | Lesson-17-Thinking-In-German.md | How Germans Organize Ideas: Frame-First Thinking, Compounding, Directness | Phase 0 | ✅ Done |
 | 18 | Lesson-18-Sound-System.md | The Sound System: IPA, Vowels, Umlauts, Consonants, Stress | Phase 0 | ✅ Done — **Phase 0 complete** |
+| 19 | Lesson-19-Weak-Strong-Mixed-Verbs.md | Weak, Strong & Mixed Verbs — Ablaut Patterns | Phase 3 | ✅ Done |
+| 20 | Lesson-20-Perfekt-vs-Praeteritum.md | Perfekt vs. Präteritum — register, sein/haben auxiliary choice | Phase 3 | ✅ Done |
+| 21 | Lesson-21-Plusquamperfekt.md | Plusquamperfekt — the past before the past | Phase 3 | ✅ Done |
+| 22 | Lesson-22-Futur-I-II.md | Futur I & II — future tense, present-probability werden | Phase 3 | ✅ Done |
+| 23 | Lesson-23-Passive-Voice.md | Passive Voice — Vorgangspassiv, Zustandspassiv, von/durch, man-alternative | Phase 3 | ✅ Done |
+| 24 | Lesson-24-Konjunktiv-I-Reported-Speech.md | Reported Speech & Konjunktiv I | Phase 3 | ✅ Done |
+| 25 | Lesson-25-Konjunktiv-II.md | Konjunktiv II — hypotheticals, politeness, würde-construction | Phase 3 | ✅ Done |
+| 26 | Lesson-26-Participles-As-Adjectives.md | Participles as Adjectives & Extended Participial Phrases | Phase 3 | ✅ Done |
+| 27 | Lesson-27-Infinitive-Constructions.md | Infinitive Constructions — um...zu, ohne...zu, statt...zu, damit | Phase 3 | ✅ Done — **Phase 3 complete** |
+| 28 | Lesson-28-Grammatical-Gender.md | Grammatical Gender — predictable endings, compound noun rule | Phase 4 | ✅ Done |
+| 29 | Lesson-29-Plural-Formation.md | Plural Formation — five patterns, dative plural connection | Phase 4 | ✅ Done |
+| 30 | Lesson-30-Adjective-Endings.md | Adjective Endings — weak/strong/mixed unified via one principle | Phase 4 | ✅ Done |
+| 31 | Lesson-31-Compound-Nouns.md | Compound Nouns — decomposition, stress, Fugenelemente, productivity | Phase 4 | ✅ Done — **Phase 4 complete** |
 
 *(New rows get added here as lessons are completed — always cross-check this table against the lesson files to see what's covered.)*

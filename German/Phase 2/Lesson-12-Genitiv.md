@@ -1,3 +1,9 @@
+---
+title: "Lesson 12 — Genitiv: The Case That's Slowly Disappearing (and Why You Still Need It)"
+layout: default
+nav_order: 12
+---
+
 # Lesson 12 — Genitiv: The Case That's Slowly Disappearing (and Why You Still Need It)
 
 **Phase:** 2 — The Case System

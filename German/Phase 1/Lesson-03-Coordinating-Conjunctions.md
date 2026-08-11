@@ -1,3 +1,9 @@
+---
+title: "Lesson 3 — The Conjunctions That Don't Break Word Order"
+layout: default
+nav_order: 3
+---
+
 # Lesson 3 — The Conjunctions That Don't Break Word Order
 
 **Phase:** 1 — The Sentence Machine

@@ -1,3 +1,9 @@
+---
+title: "Lesson 8 — Reflexive Verbs: Actions That Loop Back"
+layout: default
+nav_order: 8
+---
+
 # Lesson 8 — Reflexive Verbs: Actions That Loop Back
 
 **Phase:** 1 — The Sentence Machine

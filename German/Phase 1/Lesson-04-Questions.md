@@ -1,3 +1,9 @@
+---
+title: "Lesson 4 — Asking Questions: W-Fragen and Yes/No Inversion"
+layout: default
+nav_order: 4
+---
+
 # Lesson 4 — Asking Questions: W-Fragen and Yes/No Inversion
 
 **Phase:** 1 — The Sentence Machine

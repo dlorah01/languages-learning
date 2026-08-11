@@ -1,3 +1,9 @@
+---
+title: "Lesson 9 — Two Objects, One Sentence: Dativ, Akkusativ, and Pronoun Order"
+layout: default
+nav_order: 9
+---
+
 # Lesson 9 — Two Objects, One Sentence: Dativ, Akkusativ, and Pronoun Order
 
 **Phase:** 1 — The Sentence Machine (final lesson of this phase)

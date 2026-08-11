@@ -1,3 +1,9 @@
+---
+title: "Lesson 18 — The Sound System: IPA, Vowels, Umlauts, and Rhythm"
+layout: default
+nav_order: 0.3
+---
+
 # Lesson 18 — The Sound System: IPA, Vowels, Umlauts, and Rhythm
 
 **Phase:** 0 — Foundations (final lesson of this phase)

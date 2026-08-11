@@ -1,3 +1,9 @@
+---
+title: "Lesson 1 — The Skeleton of German: Why Sentences Are Built Backwards"
+layout: default
+nav_order: 1
+---
+
 # Lesson 1 — The Skeleton of German: Why Sentences Are Built Backwards
 
 **Phase:** 1 — The Sentence Machine *(the Satzklammer concept taught here also satisfies a Phase 0 foundations topic)*

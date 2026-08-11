@@ -1,3 +1,9 @@
+---
+title: "Lesson 7 — Separable & Inseparable Verbs: When Prefixes Fly Apart"
+layout: default
+nav_order: 7
+---
+
 # Lesson 7 — Separable & Inseparable Verbs: When Prefixes Fly Apart
 
 **Phase:** 1 — The Sentence Machine

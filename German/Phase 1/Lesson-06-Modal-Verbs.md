@@ -1,3 +1,9 @@
+---
+title: "Lesson 6 — Modal Verbs: Building a Bigger Bracket"
+layout: default
+nav_order: 6
+---
+
 # Lesson 6 — Modal Verbs: Building a Bigger Bracket
 
 **Phase:** 1 — The Sentence Machine

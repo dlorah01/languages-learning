@@ -1,3 +1,9 @@
+---
+title: "Lesson 5 — Saying No: Nicht vs. Kein, and Where Negation Goes"
+layout: default
+nav_order: 5
+---
+
 # Lesson 5 — Saying No: Nicht vs. Kein, and Where Negation Goes
 
 **Phase:** 1 — The Sentence Machine

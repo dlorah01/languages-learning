@@ -1,3 +1,9 @@
+---
+title: "Lesson 10 — Why Cases Exist: Nominativ and Akkusativ"
+layout: default
+nav_order: 10
+---
+
 # Lesson 10 — Why Cases Exist: Nominativ and Akkusativ
 
 **Phase:** 2 — The Case System

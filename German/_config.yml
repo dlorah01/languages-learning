@@ -1,0 +1,40 @@
+# Site settings
+title: "Deutsch als zweite Muttersprache"
+description: >-
+  A personal, systematically-built German curriculum taking a native Spanish
+  speaker living in Germany from A2.2–B1.1 toward second-native fluency —
+  speaking-first, thinking-in-German, one deep lesson at a time.
+lang: en
+
+# Theme — just-the-docs supports the nav_order / title / layout front matter
+# already used across index.md, 00-Roadmap.md, and every lesson file.
+remote_theme: just-the-docs/just-the-docs
+
+# Markdown processing (GitHub Pages default, explicit for clarity)
+markdown: kramdown
+kramdown:
+  input: GFM              # GitHub-Flavored Markdown: tables, fenced code, etc.
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+# just-the-docs navigation/search settings
+nav_sort: ascending        # orders pages by nav_order (0 = index/home, then roadmap, then lessons 1, 2, 3...)
+search_enabled: true
+heading_anchors: true
+
+# Aux links shown in the top nav bar
+aux_links:
+  "View on GitHub":
+    - "https://github.com/dlorah01/languages-learning/tree/master/German"
+
+# Footer
+footer_content: "German fluency curriculum — updated after every lesson."
+
+# Exclude non-content files from the Jekyll build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-remote-theme

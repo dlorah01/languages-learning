@@ -1,3 +1,9 @@
+---
+title: "Lesson 2 — The Verb Runs to the End: Subordinate Clauses"
+layout: default
+nav_order: 2
+---
+
 # Lesson 2 — The Verb Runs to the End: Subordinate Clauses
 
 **Phase:** 1 — The Sentence Machine
