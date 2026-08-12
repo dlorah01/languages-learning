@@ -15,7 +15,7 @@ Welcome — this is the full lesson archive for the course. 10 phases, 78 lesson
 ## Phase 0 — Foundations & Mindset
 - [Lesson 01 — How English Works as a Language](Phase 0/01_Foundations_HowEnglishWorks.html) ✅
 - [Lesson 02 — English vs. Spanish: Core Structural Differences](Phase 0/02_Foundations_EnglishVsSpanish.html) ✅
-- [Lesson 03 — How Native Speakers Actually Think While Speaking]Phase 0//03_Foundations_HowNativesThink.html) ✅
+- [Lesson 03 — How Native Speakers Actually Think While Speaking]Phase 0/03_Foundations_HowNativesThink.html) ✅
 - [Lesson 04 — The Translation Trap](Phase 0/04_Foundations_TranslationTrap.html) ✅
 - [Lesson 05 — Mental Models for Thinking Directly in English](Phase 0/05_Foundations_MentalModels.html) ✅
 
