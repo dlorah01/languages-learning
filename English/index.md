@@ -1,8 +1,6 @@
 ---
-layout: home
-title: "Home"
-nav_order: 1
-permalink: /
+layout: default
+title: "English Section"
 ---
 
 # From Advanced to Near-Native English

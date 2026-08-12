@@ -1,7 +1,6 @@
 ---
-title: "Home"
 layout: default
-nav_order: -1
+title: "German Section"
 ---
 
 # 🇩🇪 German as a Second Native Language

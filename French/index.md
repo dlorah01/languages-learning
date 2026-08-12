@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "French Section"
 ---
 
 # 🇫🇷 French Mastery Program

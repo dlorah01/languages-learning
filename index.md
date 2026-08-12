@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Langauges Library"
+title: "Languages Library"
 ---
 
 # 🌍 Languages Learning
