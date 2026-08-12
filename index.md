@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Langauges Library"
 ---
 
 # 🌍 Languages Learning
@@ -11,24 +11,24 @@ Pick a language below to jump into its roadmap and lessons.
 
 <div class="lang-grid">
 
-<a class="lang-card" href="German/index.md">
+<a class="lang-card" href="German">
   <span class="lang-flag">🇩🇪</span>
   <p class="lang-name">German</p>
   <p class="lang-meta">31 lessons · Phases 0–4 complete</p>
   <span class="lang-status active">Active</span>
 </a>
 
-<a class="lang-card" href="French/index.md">
+<a class="lang-card" href="French">
   <span class="lang-flag">🇫🇷</span>
   <p class="lang-name">French</p>
-  <p class="lang-meta">26 lessons · Phase 2 underway</p>
+  <p class="lang-meta">26 lessons · Phase 0-2 complete</p>
   <span class="lang-status active">Active</span>
 </a>
 
-<a class="lang-card" href="English/00_ROADMAP.md">
+<a class="lang-card" href="English">
   <span class="lang-flag">🇬🇧</span>
   <p class="lang-name">English</p>
-  <p class="lang-meta">17 lessons · Phase 1 underway</p>
+  <p class="lang-meta">17 lessons · Phase 0-1 complete</p>
   <span class="lang-status active">Active</span>
 </a>
 
