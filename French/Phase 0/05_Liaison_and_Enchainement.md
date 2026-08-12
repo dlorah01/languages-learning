@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lesson 5: Liaison & Enchainement"
+---
+
 # Lesson 5 — Liaison & Enchaînement: Why French "Runs Together"
 ### Phase 0: Foundations (final lesson of this phase)
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lesson 2: A Brief History of French"
+---
+
 # Lesson 2 — A Brief History of French: Latin's Two Children, and English's Secret Donor
 ### Phase 0: Foundations
 

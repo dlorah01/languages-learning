@@ -1,0 +1,34 @@
+title: "French Mastery Program"
+description: >-
+  A personalized, systems-based curriculum taking a Spanish-native,
+  English-fluent learner from A1 French to native-like intuition —
+  pronunciation, grammar, vocabulary, and culture taught as one
+  interconnected system, with comparisons across French, Spanish, and English.
+author: "French Mastery Program"
+lang: en
+
+theme: minima
+minima:
+  skin: dark
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:basename/
+
+header_pages:
+  - index.md
+  - 00_ROADMAP_French_Mastery.md
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

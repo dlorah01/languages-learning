@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lesson 3: How French Builds a Sentence"
+---
+
 # Lesson 3 — How French Builds a Sentence: The Mental Model
 ### Phase 0: Foundations
 

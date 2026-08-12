@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lesson 4: Nasal Vowels - Deep Practice"
+---
+
 # Lesson 4 — Nasal Vowels: Deep Practice
 ### Phase 0: Foundations
 

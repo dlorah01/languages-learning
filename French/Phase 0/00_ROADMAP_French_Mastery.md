@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Roadmap & Progress Tracker"
+---
+
 # 🇫🇷 French Mastery Program — Master Roadmap
 ### From A1 (Spanish L1 / English C1) to Native-Like Intuition
 
@@ -98,7 +103,7 @@ Each lesson file will include:
 
 ## 7. Progress Tracker
 
-> **Current position: Phase 0 (Foundations) COMPLETE ✅ — Phase 1 (Core System) begins with Lesson 6.**
+> **Current position: Phase 2 (Expansion) — Lesson 27 up next.**
 > This tracker is updated after every completed lesson, without needing to be asked.
 
 | # | Lesson | Phase | Axes trained | Status |
@@ -108,8 +113,28 @@ Each lesson file will include:
 | 3 | How French Builds a Sentence (the mental model) | 0 | Morphosyntax, Discourse | ✅ Completed |
 | 4 | Nasal Vowels — Deep Practice | 0 | Phonology | ✅ Completed |
 | 5 | Liaison & Enchaînement — why French "runs together" | 0 | Phonology, Listening | ✅ Completed |
-| 6 | The Present Tense System — Regular Verbs and the Logic Behind French Conjugation | 1 | Morphosyntax | 🔜 Up next |
-| 7+ | *(remaining Phase 1 lessons generated as we proceed)* | 1 | — | ⬜ Not started |
+| 6 | The Present Tense System — Regular Verbs and the Logic Behind French Conjugation | 1 | Morphosyntax | ✅ Completed |
+| 7 | Être, Avoir, Faire, Aller — The Four Pillar Verbs | 1 | Morphosyntax, Lexicon | ✅ Completed |
+| 8 | Articles, Gender, and the Noun System | 1 | Morphosyntax, Lexicon | ✅ Completed |
+| 9 | Negation and Questions in Practice | 1 | Morphosyntax, Discourse | ✅ Completed |
+| 10 | The First 100 High-Frequency Words as Word Families | 1 | Lexicon | ✅ Completed |
+| 11 | Possessive and Demonstrative Determiners | 1 | Morphosyntax, Lexicon | ✅ Completed |
+| 12 | The Passé Composé — Talking About the Past (Part 1: Formation) | 1 | Morphosyntax | ✅ Completed |
+| 13 | Passé Composé vs. Imparfait — The Aspect Distinction (Part 2) | 1 | Morphosyntax | ✅ Completed |
+| 14 | Prepositions — The Conceptual Map | 1 | Morphosyntax, Lexicon | ✅ Completed |
+| 15 | Comparatives and Superlatives | 1 | Morphosyntax, Lexicon | ✅ Completed |
+| 16 | Formal vs. Informal Register — Tu vs. Vous | 1 | Pragmatics, Discourse | ✅ Completed |
+| 17 | Deep-Dive Verb Study — Prendre, Mettre, Donner | 1 | Lexicon, Morphosyntax | ✅ Completed |
+| 18 | Interleaved Review — Phase 1 Consolidation (Lessons 6–17) | 1 | All Phase 1 axes | ✅ Completed |
+| 19 | The Immediate Future & Conditional Preview — Aller + Infinitive in Depth | 1 | Morphosyntax | ✅ Completed |
+| 20 | Numbers, Time, and Dates — The Practical Toolkit | 1 | Lexicon | ✅ Completed |
+| 21 | The First 200 Words — Emotions, Work, House | 1 | Lexicon | ✅ Completed |
+| 22 | The Imperative Mood — Giving Commands and Instructions | 1 | Morphosyntax | ✅ Completed |
+| 23 | Reflexive Verbs — Daily Routines and Se Faire/Se Mettre | 1 | Morphosyntax, Lexicon | ✅ Completed |
+| 24 | Object Pronouns Deep-Dive — Le/La/Les, Lui/Leur, Y and En | 1 | Morphosyntax | ✅ Completed |
+| 25 | Phase 1 Capstone Review — Full Interleaved Assessment | 1 | All Phase 1 axes | ✅ Completed |
+| 26 | The Subjunctive Mood — Leveraging Your Spanish Intuition | 2 | Morphosyntax | ✅ Completed |
+| 27 | Relative Clauses — Qui, Que, Dont, Où | 2 | Morphosyntax | 🔜 Up next |
 
 *(This table grows as lessons are generated — the file is reissued with updated status after each one, or on request.)*
 

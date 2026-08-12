@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Lesson 1: The Sound System of French & the IPA"
+---
+
 # Lesson 1 — The Sound System of French & the IPA
 ### Phase 0: Foundations
 
