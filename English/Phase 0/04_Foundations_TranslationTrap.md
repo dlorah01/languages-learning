@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 4 — The Translation Trap"
+nav_order: 5
+---
+
 # Lesson 4 — The Translation Trap
 ### Phase 0: Foundations | Module 4 of 5
 

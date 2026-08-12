@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Roadmap & Progress Tracker"
+nav_order: 2
+permalink: /roadmap/
+---
+
 # From Advanced to Near-Native English
 ### A Complete Curriculum for a Spanish-Speaking (Colombian) B2+/C1 Learner
 ### Master Roadmap
@@ -8,9 +15,9 @@
 
 *I will update this section every time we finish a lesson — always re-download this file after a lesson to get the latest version.*
 
-**Current phase:** Phase 1 — Grammar — Block B ✅ Complete → moving into Block C (Nouns, Determiners, Reference)
-**Current lesson:** Lesson 18 — Articles (a/an/the/zero article) (not started)
-**Last completed:** Lesson 17 — Modals of the Past ✅
+**Current phase:** Phase 1 — Grammar ✅ COMPLETE → moving into Phase 2 (High-Frequency Verb System)
+**Current lesson:** Lesson 29 — GET (not started)
+**Last completed:** Lesson 28 — Discourse Markers & Linking Words ✅
 
 | # | Lesson | Status |
 |---|--------|--------|
@@ -31,8 +38,19 @@
 | 15 | Modal Verbs II: Obligation & Necessity | ✅ Done |
 | 16 | Modal Verbs III: Deduction & Speculation | ✅ Done |
 | 17 | Modals of the Past | ✅ Done |
-| 18 | Articles (a/an/the/zero article) | ▶️ Up next |
-| 19–78 | (see full roadmap below) | ⬜ Not started |
+| 18 | Articles (a/an/the/zero article) | ✅ Done |
+| 19 | Determiners & Quantifiers | ✅ Done |
+| 20 | Pronouns | ✅ Done |
+| 21 | Relative Clauses | ✅ Done |
+| 22 | Reported Speech | ✅ Done |
+| 23 | Inversion & Emphasis | ✅ Done |
+| 24 | Cleft Sentences | ✅ Done |
+| 25 | Ellipsis & Substitution | ✅ Done |
+| 26 | Parallelism & Sentence Balance | ✅ Done |
+| 27 | Advanced Punctuation | ✅ Done |
+| 28 | Discourse Markers & Linking Words | ✅ Done |
+| 29 | GET (Phase 2: High-Frequency Verb System begins) | ▶️ Up next |
+| 30–78 | (see full roadmap below) | ⬜ Not started |
 
 **Legend:** ✅ Done · ▶️ Up next · ⬜ Not started · 🔁 Flagged for review
 

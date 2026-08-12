@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 6 — Time vs. Tense vs. Aspect"
+nav_order: 7
+---
+
 # Lesson 6 — Time vs. Tense vs. Aspect
 ### Phase 1: Grammar | Block A (Tense, Aspect, Mood, Voice) | Lesson 1 of 7
 

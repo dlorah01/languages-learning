@@ -1,0 +1,32 @@
+# Site settings — this is the project-wide hub/landing page.
+# Each language (German/, French/, ...) is its own independent Jekyll
+# site with its own _config.yml, meant to be served from inside that
+# folder for the fullest themed experience. This root config only
+# builds the landing page at index.md, which links out to all of them.
+title: "Languages Learning"
+description: >-
+  A personal, systems-based language-learning lab. Every curriculum is
+  hand-built phase by phase — sound system and sentence structure first,
+  then grammar as systems, then vocabulary, then the native layer —
+  aimed at real fluency, not phrasebook survival.
+lang: en
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+show_downloads: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

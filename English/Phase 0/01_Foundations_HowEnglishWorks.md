@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 1 — How English Works as a Language"
+nav_order: 2
+---
+
 # Lesson 1 — How English Works as a Language
 ### Phase 0: Foundations | Module 1 of 5
 

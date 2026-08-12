@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 16 — Modal Verbs III: Deduction & Speculation (must be / can't be / might have / would have)"
+nav_order: 17
+---
+
 # Lesson 16 — Modal Verbs III: Deduction & Speculation (must be / can't be / might have / would have)
 ### Phase 1: Grammar | Block B (Conditionals & Modality) | Lesson 4 of 5
 

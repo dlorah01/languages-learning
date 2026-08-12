@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 3 — How Native Speakers Actually Think While Speaking"
+nav_order: 4
+---
+
 # Lesson 3 — How Native Speakers Actually Think While Speaking
 ### Phase 0: Foundations | Module 3 of 5
 

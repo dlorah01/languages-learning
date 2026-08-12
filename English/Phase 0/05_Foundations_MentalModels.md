@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 5 — Mental Models for Thinking Directly in English"
+nav_order: 6
+---
+
 # Lesson 5 — Mental Models for Thinking Directly in English
 ### Phase 0: Foundations | Module 5 of 5 (Final Foundations Lesson)
 

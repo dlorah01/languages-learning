@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 8 — Past Tenses: Simple, Continuous, Perfect, Perfect Continuous"
+nav_order: 9
+---
+
 # Lesson 8 — Past Tenses: Simple, Continuous, Perfect, Perfect Continuous
 ### Phase 1: Grammar | Block A (Tense, Aspect, Mood, Voice) | Lesson 3 of 7
 

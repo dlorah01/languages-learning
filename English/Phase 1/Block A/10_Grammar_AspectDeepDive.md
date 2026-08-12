@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 10 — Aspect Deep Dive: Why "Perfect" and "Continuous" Exist and How They Combine"
+nav_order: 11
+---
+
 # Lesson 10 — Aspect Deep Dive: Why "Perfect" and "Continuous" Exist and How They Combine
 ### Phase 1: Grammar | Block A (Tense, Aspect, Mood, Voice) | Lesson 5 of 7
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 11 — Mood: Indicative, Subjunctive, Imperative — and the English Subjunctive Spanish Speakers Miss"
+nav_order: 12
+---
+
 # Lesson 11 — Mood: Indicative, Subjunctive, Imperative — and the English Subjunctive Spanish Speakers Miss
 ### Phase 1: Grammar | Block A (Tense, Aspect, Mood, Voice) | Lesson 6 of 7
 

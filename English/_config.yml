@@ -1,0 +1,54 @@
+# ------------------------------------------------------------
+# Site settings
+# ------------------------------------------------------------
+title: "From Advanced to Near-Native English"
+description: >-
+  A complete, university-level curriculum taking a B2+/C1 Spanish-speaking
+  (Colombian) learner to near-native English intuition, fluency, and precision.
+  10 phases, 78 lessons, covering grammar, vocabulary, pronunciation,
+  listening, speaking, writing, and cultural English.
+author: "English Curriculum"
+lang: en
+
+# ------------------------------------------------------------
+# Theme
+# ------------------------------------------------------------
+# Minima is natively supported by GitHub Pages (no GitHub Actions build
+# needed) — safest choice for automatic Jekyll builds straight from the repo.
+theme: minima
+minima:
+  skin: auto            # respects light/dark system preference
+  nav_pages:
+    - roadmap.md
+
+# ------------------------------------------------------------
+# Markdown / build settings
+# ------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM             # GitHub-Flavored Markdown (tables, etc. render correctly)
+  syntax_highlighter: rouge
+  hard_wrap: false
+highlighter: rouge
+
+permalink: /:title/
+
+# ------------------------------------------------------------
+# Build behavior
+# ------------------------------------------------------------
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Show files/folders that start with an underscore or number cleanly
+include:
+  - _pages
+
+# Default front matter (applies if a lesson file forgets to set its own)
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

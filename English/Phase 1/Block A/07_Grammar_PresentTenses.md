@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 7 — Present Tenses: Simple, Continuous, Perfect, Perfect Continuous"
+nav_order: 8
+---
+
 # Lesson 7 — Present Tenses: Simple, Continuous, Perfect, Perfect Continuous
 ### Phase 1: Grammar | Block A (Tense, Aspect, Mood, Voice) | Lesson 2 of 7
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 14 — Modal Verbs I: Ability, Permission, Possibility (can/could/may/might)"
+nav_order: 15
+---
+
 # Lesson 14 — Modal Verbs I: Ability, Permission, Possibility (can/could/may/might)
 ### Phase 1: Grammar | Block B (Conditionals & Modality) | Lesson 2 of 5
 

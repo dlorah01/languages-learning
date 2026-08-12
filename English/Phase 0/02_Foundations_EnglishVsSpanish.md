@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Lesson 2 — English vs. Spanish: The Core Structural Differences"
+nav_order: 3
+---
+
 # Lesson 2 — English vs. Spanish: The Core Structural Differences
 ### Phase 0: Foundations | Module 2 of 5
 
