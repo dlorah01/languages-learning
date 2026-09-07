@@ -103,7 +103,7 @@ Each lesson file will include:
 
 ## 7. Progress Tracker
 
-> **Current position: Phase 2 (Expansion) — Lesson 27 up next.**
+> **Current position: Phase 4 (Native Naturalness) — Lesson 48 up next.**
 > This tracker is updated after every completed lesson, without needing to be asked.
 
 | # | Lesson | Phase | Axes trained | Status |
@@ -134,7 +134,28 @@ Each lesson file will include:
 | 24 | Object Pronouns Deep-Dive — Le/La/Les, Lui/Leur, Y and En | 1 | Morphosyntax | ✅ Completed |
 | 25 | Phase 1 Capstone Review — Full Interleaved Assessment | 1 | All Phase 1 axes | ✅ Completed |
 | 26 | The Subjunctive Mood — Leveraging Your Spanish Intuition | 2 | Morphosyntax | ✅ Completed |
-| 27 | Relative Clauses — Qui, Que, Dont, Où | 2 | Morphosyntax | 🔜 Up next |
+| 27 | Relative Clauses — Qui, Que, Dont, Où | 2 | Morphosyntax | ✅ Completed |
+| 28 | Reported Speech — Discours Indirect | 2 | Morphosyntax | ✅ Completed |
+| 29 | The Conditional Mood — Full Formation and Use (Si Clauses Part 1) | 2 | Morphosyntax | ✅ Completed |
+| 30 | Phase 2 Interleaved Review — Subjunctive, Relative Clauses, Reported Speech, Conditional | 2 | All Phase 2 axes so far | ✅ Completed |
+| 31 | The Passive Voice — Formation and When Native Speakers Avoid It | 2 | Morphosyntax, Pragmatics | ✅ Completed |
+| 32 | Business & Professional French — Vocabulary and Register for Work Contexts | 2 | Lexicon, Pragmatics | ✅ Completed |
+| 33 | Academic & Technical French — Structuring Arguments and Explaining Complex Ideas | 2 | Lexicon, Discourse | ✅ Completed |
+| 34 | Idioms and Fixed Expressions — Frequency Tier 1 (The Essentials) | 2 | Lexicon | ✅ Completed |
+| 35 | Phase 2 Interleaved Review #2 — Passive Voice, Register, Idioms | 2 | All Phase 2 axes so far | ✅ Completed |
+| 36 | Deep-Dive Verb Study — Voir, Croire, Laisser, Rendre | 2 | Lexicon, Morphosyntax | ✅ Completed |
+| 37 | Semantic Field Expansion — Health, Body, and Illness | 2 | Lexicon | ✅ Completed |
+| 38 | Phase 2 Capstone Review — Full Assessment Before Phase 3 | 2 | All Phase 2 axes | ✅ Completed |
+| 39 | The Remaining High-Frequency Verbs — Tenir, Porter, and Their Prefixed Families | 3 | Lexicon, Morphosyntax | ✅ Completed |
+| 40 | Nuance and Near-Synonyms — Choosing the Right Word | 3 | Lexicon | ✅ Completed |
+| 41 | Discourse Markers and Fillers — Sounding Natural in Spontaneous Speech | 3 | Discourse, Pragmatics | ✅ Completed |
+| 42 | Advanced Sentence Architecture — Gerunds, Participial Clauses, Complex Subordination | 3 | Morphosyntax, Discourse | ✅ Completed |
+| 43 | Phase 3 Interleaved Review — Nuance, Fillers, Sentence Architecture | 3 | All Phase 3 axes so far | ✅ Completed |
+| 44 | Understanding French Humor — Wordplay, Irony, and Cultural Comedy | 3 | Cultural, Pragmatics | ✅ Completed |
+| 45 | Listening Strategies for Native Speed — Decoding Reductions and Fast Speech | 3 | Listening, Phonology | ✅ Completed |
+| 46 | Phase 3 Capstone Review — Full Assessment Before Phase 4 | 3 | All Phase 3 axes | ✅ Completed |
+| 47 | Full Register Command — Formal, Neutral, and Vernacular French Side by Side | 4 | Pragmatics, Lexicon, Discourse | ✅ Completed |
+| 48 | Idioms Tier 2 — Intermediate Frequency and Domain-Specific Expressions | 4 | Lexicon | 🔜 Up next |
 
 *(This table grows as lessons are generated — the file is reissued with updated status after each one, or on request.)*
 
