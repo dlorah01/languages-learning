@@ -15,9 +15,9 @@ permalink: /roadmap/
 
 *I will update this section every time we finish a lesson — always re-download this file after a lesson to get the latest version.*
 
-**Current phase:** Phase 1 — Grammar ✅ COMPLETE → moving into Phase 2 (High-Frequency Verb System)
-**Current lesson:** Lesson 29 — GET (not started)
-**Last completed:** Lesson 28 — Discourse Markers & Linking Words ✅
+**Current phase:** Phase 3 — Prepositions ✅ COMPLETE → moving into Phase 4 (Phrasal Verbs)
+**Current lesson:** Lesson 44 — Phrasal Verbs with GET (not started)
+**Last completed:** Lesson 43 — Dependent Prepositions ✅
 
 | # | Lesson | Status |
 |---|--------|--------|
@@ -49,8 +49,23 @@ permalink: /roadmap/
 | 26 | Parallelism & Sentence Balance | ✅ Done |
 | 27 | Advanced Punctuation | ✅ Done |
 | 28 | Discourse Markers & Linking Words | ✅ Done |
-| 29 | GET (Phase 2: High-Frequency Verb System begins) | ▶️ Up next |
-| 30–78 | (see full roadmap below) | ⬜ Not started |
+| 29 | GET (Phase 2: High-Frequency Verb System begins) | ✅ Done |
+| 30 | TAKE | ✅ Done |
+| 31 | MAKE vs. DO | ✅ Done |
+| 32 | HAVE | ✅ Done |
+| 33 | GO / COME | ✅ Done |
+| 34 | PUT / KEEP / HOLD | ✅ Done |
+| 35 | BRING / RUN / TURN | ✅ Done |
+| 36 | SET / PASS / BREAK / FALL (Phase 2 complete) | ✅ Done |
+| 37 | The Mental-Image Method for Prepositions (Phase 3 begins) | ✅ Done |
+| 38 | IN / ON / AT (space and time) | ✅ Done |
+| 39 | BY / FOR / TO | ✅ Done |
+| 40 | INTO / ONTO / OVER / UNDER / ABOVE / BELOW | ✅ Done |
+| 41 | THROUGH / ACROSS / BETWEEN / AMONG / WITHIN | ✅ Done |
+| 42 | WITHOUT / BEYOND / AROUND / AGAINST / DESPITE / THROUGHOUT | ✅ Done |
+| 43 | Dependent Prepositions (Phase 3 finale) | ✅ Done |
+| 44 | Phrasal Verbs with GET (Phase 4 begins) | ▶️ Up next |
+| 45–78 | (see full roadmap below) | ⬜ Not started |
 
 **Legend:** ✅ Done · ▶️ Up next · ⬜ Not started · 🔁 Flagged for review
 
