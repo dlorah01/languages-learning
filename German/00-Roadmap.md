@@ -34,10 +34,10 @@ Estimated lesson count per phase. Phase 1 is finalized (it's done); everything a
 | Phase 2 | The Case System | Lessons 10–15 | 6 | 6 | ✅ **Complete** |
 | Phase 3 | Verbs in Depth (tenses, passive, Konjunktiv, participles) | Lessons 19–27 | 9 | 9 | ✅ **Complete** |
 | Phase 4 | Nouns, Adjectives, Gender | Lessons 28–31 | 4 | 4 | ✅ **Complete** |
-| Phase 5 | The Native Layer (particles, idioms, register, AT/CH differences) | Lessons ~32–~37 | ~6 | 0 | ⬜ Not started |
-| Phase 6 | Vocabulary as Systems | Lessons ~38–~41 | ~4 | 0 | ⬜ Not started |
-| Phase 7 | Skills Integration (listening, writing, thinking-in-German, immersion) | Lessons ~42–~46 | ~5 | 0 | ⬜ Not started |
-| **Total** | | | **~46** | **31** | **~67% through the estimated curriculum** |
+| Phase 5 | The Native Layer (particles, idioms, register, AT/CH differences) | Lessons 32–37 | 6 | 6 | ✅ **Complete** |
+| Phase 6 | Vocabulary as Systems | Lessons 38–41 | 4 | 4 | ✅ **Complete** |
+| Phase 7 | Skills Integration (listening, writing, thinking-in-German, immersion) | Lessons 42–46 | 5 | 5 | ✅ **Complete** |
+| **Total** | | | **46** | **46** | **✅ 100% — full curriculum complete** |
 
 **Note on Phase 0:** the original curriculum design put Foundations first, but we started directly with Phase 1 (the syntax skeleton) since that's the highest-leverage starting point for someone already at A2.2–B1.1. Phase 0 was inserted at Lessons 16–18, right after the case system wrapped up, and is now complete: history of German & the Germanic family tree, how German organizes ideas differently from Spanish/English, and the sound system. On `index.md`, Phase 0 is listed *before* Phase 1 for logical reading order, even though it was taught later — this table (and the lesson numbers themselves) reflect the actual teaching order.
 
@@ -153,5 +153,20 @@ Estimated lesson count per phase. Phase 1 is finalized (it's done); everything a
 | 29 | Lesson-29-Plural-Formation.md | Plural Formation — five patterns, dative plural connection | Phase 4 | ✅ Done |
 | 30 | Lesson-30-Adjective-Endings.md | Adjective Endings — weak/strong/mixed unified via one principle | Phase 4 | ✅ Done |
 | 31 | Lesson-31-Compound-Nouns.md | Compound Nouns — decomposition, stress, Fugenelemente, productivity | Phase 4 | ✅ Done — **Phase 4 complete** |
+| 32 | Lesson-32-Modal-Particles.md | Modal Particles — doch, ja, mal, denn, wohl, eben/halt, eigentlich, nämlich, schon | Phase 5 | ✅ Done |
+| 33 | Lesson-33-Collocations.md | High-Frequency Collocations — verb+noun, adjective+prep, intensifiers, fixed phrases | Phase 5 | ✅ Done |
+| 34 | Lesson-34-Idioms-By-Frequency.md | Idioms by Frequency Tier — everyday, professional, colorful | Phase 5 | ✅ Done |
+| 35 | Lesson-35-Discourse-Markers.md | Discourse Markers & Spoken Shortcuts — fillers, contractions, connectors | Phase 5 | ✅ Done |
+| 36 | Lesson-36-Austrian-Swiss-German.md | Austrian & Swiss German Differences — vocabulary, pronunciation, grammar | Phase 5 | ✅ Done |
+| 37 | Lesson-37-Register-Sie-Du.md | Register Control — Sie vs. du, switching etiquette, politeness layering | Phase 5 | ✅ Done — **Phase 5 complete** |
+| 38 | Lesson-38-Word-Families-Semantic-Fields.md | Word Families & Semantic Fields — bureaucracy vocabulary cluster | Phase 6 | ✅ Done |
+| 39 | Lesson-39-Professional-Vocabulary.md | Professional Vocabulary — meetings, email, cognates, academic connectors | Phase 6 | ✅ Done |
+| 40 | Lesson-40-Emotional-Vocabulary.md | Emotional Vocabulary — intensity staircase, dative constructions, sarcasm markers | Phase 6 | ✅ Done |
+| 41 | Lesson-41-Synonym-Clusters.md | Synonym Clusters — sagen/sprechen/reden/erzählen, denken/glauben/meinen/finden, size clusters | Phase 6 | ✅ Done — **Phase 6 complete** |
+| 42 | Lesson-42-Listening-Strategy.md | Listening Strategy — connected speech reductions, top-down processing, chunking | Phase 7 | ✅ Done |
+| 43 | Lesson-43-Writing-Skills.md | Writing — formal email template, casual messaging, written/spoken register gap | Phase 7 | ✅ Done |
+| 44 | Lesson-44-Thinking-In-German-System.md | Thinking-in-German Habit System — three daily anchors, reach-don't-retreat rule | Phase 7 | ✅ Done |
+| 45 | Lesson-45-Conversation-Simulations.md | Conversation Simulations — Bürgeramt, doctor, workplace, small talk | Phase 7 | ✅ Done |
+| 46 | Lesson-46-Immersion-Media.md | Immersion Media — progressive tiered listening path | Phase 7 | ✅ Done — **Phase 7 complete, full curriculum complete** |
 
 *(New rows get added here as lessons are completed — always cross-check this table against the lesson files to see what's covered.)*
