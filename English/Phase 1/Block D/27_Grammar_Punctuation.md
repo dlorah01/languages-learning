@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 27 — Advanced Punctuation"
 nav_order: 28
 permalink: /lessons/27/

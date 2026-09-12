@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 21 — Relative Clauses"
 nav_order: 22
 permalink: /lessons/21/

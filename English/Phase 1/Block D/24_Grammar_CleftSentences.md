@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 24 — Cleft Sentences"
 nav_order: 25
 permalink: /lessons/24/

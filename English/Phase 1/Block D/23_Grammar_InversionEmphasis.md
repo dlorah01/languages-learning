@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 23 — Inversion & Emphasis"
 nav_order: 24
 permalink: /lessons/23/

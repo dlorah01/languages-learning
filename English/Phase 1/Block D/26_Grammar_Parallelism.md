@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 26 — Parallelism & Sentence Balance"
 nav_order: 27
 permalink: /lessons/26/

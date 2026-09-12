@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 20 — Pronouns"
 nav_order: 21
 permalink: /lessons/20/

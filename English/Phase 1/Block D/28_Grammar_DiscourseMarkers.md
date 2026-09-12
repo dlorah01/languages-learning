@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 28 — Discourse Markers & Linking Words"
 nav_order: 29
 permalink: /lessons/28/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 22 — Reported Speech"
 nav_order: 23
 permalink: /lessons/22/

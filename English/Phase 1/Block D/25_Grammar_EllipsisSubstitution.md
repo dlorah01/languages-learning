@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 25 — Ellipsis & Substitution"
 nav_order: 26
 permalink: /lessons/25/

@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Roadmap & Progress Tracker"
 nav_order: 2
-permalink: /roadmap/
 ---
 
 # From Advanced to Near-Native English

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 19 — Determiners & Quantifiers"
 nav_order: 20
 permalink: /lessons/19/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lesson 18 — Articles (a/an/the/zero article)"
 nav_order: 19
 ---
