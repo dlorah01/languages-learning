@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Roadmap & Progress Tracker"
 nav_order: 2
 ---
@@ -14,9 +14,9 @@ nav_order: 2
 
 *I will update this section every time we finish a lesson — always re-download this file after a lesson to get the latest version.*
 
-**Current phase:** Phase 3 — Prepositions ✅ COMPLETE → moving into Phase 4 (Phrasal Verbs)
-**Current lesson:** Lesson 44 — Phrasal Verbs with GET (not started)
-**Last completed:** Lesson 43 — Dependent Prepositions ✅
+**Current phase:** Course complete 🎓 (all 10 phases finished)
+**Current lesson:** None — use Lesson 78 as your recurring review system
+**Last completed:** Lesson 78 — Comprehensive Mixed-Review Modules ✅ (final lesson)
 
 | # | Lesson | Status |
 |---|--------|--------|
@@ -63,8 +63,41 @@ nav_order: 2
 | 41 | THROUGH / ACROSS / BETWEEN / AMONG / WITHIN | ✅ Done |
 | 42 | WITHOUT / BEYOND / AROUND / AGAINST / DESPITE / THROUGHOUT | ✅ Done |
 | 43 | Dependent Prepositions (Phase 3 finale) | ✅ Done |
-| 44 | Phrasal Verbs with GET (Phase 4 begins) | ▶️ Up next |
-| 45–78 | (see full roadmap below) | ⬜ Not started |
+| 44 | Phrasal Verbs with GET (Phase 4 begins) | ✅ Done |
+| 45 | Phrasal Verbs with TAKE | ✅ Done |
+| 46 | Phrasal Verbs with PUT | ✅ Done |
+| 47 | Phrasal Verbs with COME / GO | ✅ Done |
+| 48 | Phrasal Verbs with BREAK / TURN / SET | ✅ Done |
+| 49 | Phrasal Verbs with LOOK / CARRY / BRING | ✅ Done |
+| 50 | High-Frequency Business & Academic Phrasal Verbs | ✅ Done |
+| 51 | Chunks, Not Words (Phase 5 begins) | ✅ Done |
+| 52 | Collocations I: Verb+Noun, Adjective+Noun | ✅ Done |
+| 53 | Collocations II: Adverb+Adjective, Intensifiers | ✅ Done |
+| 54 | Synonym Precision: Fine-Grained Differences | ✅ Done |
+| 55 | Register Ladders | ✅ Done |
+| 56 | Academic Vocabulary & Nominalization | ✅ Done |
+| 57 | Business & Professional Vocabulary | ✅ Done |
+| 58 | Idioms by Frequency (Phase 5 ends) | ✅ Done |
+| 59 | Hedging & Softening Language (Phase 6 begins) | ✅ Done |
+| 60 | Filler & Discourse Words | ✅ Done |
+| 61 | Agreement, Disagreement & Diplomatic Pushback | ✅ Done |
+| 62 | Small Talk & Conversational Rituals | ✅ Done |
+| 63 | Turn-Taking & Interrupting Politely (Phase 6 ends) | ✅ Done |
+| 64 | IPA Essentials for Spanish Speakers (Phase 7 begins) | ✅ Done |
+| 65 | Word Stress & Sentence Stress | ✅ Done |
+| 66 | Rhythm & Timing | ✅ Done |
+| 67 | Connected Speech: Linking, Reductions, Weak Forms | ✅ Done |
+| 68 | Intonation & Meaning (Phase 7 ends) | ✅ Done |
+| 69 | Decoding Fast Native Speech (Phase 8 begins) | ✅ Done |
+| 70 | Real-Time Speaking Strategies | ✅ Done |
+| 71 | Sounding Natural vs. Sounding Translated (Phase 8 ends) | ✅ Done |
+| 72 | Professional Email Writing (Phase 9 begins) | ✅ Done |
+| 73 | Academic Writing Conventions | ✅ Done |
+| 74 | Casual/Personal Writing | ✅ Done |
+| 75 | Tone, Style & Clarity Editing (Phase 9 ends) | ✅ Done |
+| 76 | Cultural Pragmatics: Directness, Politeness, Humor (Phase 10 begins) | ✅ Done |
+| 77 | US vs. UK: Systematic Differences Recap | ✅ Done |
+| 78 | Comprehensive Mixed-Review Modules (Phase 10 ends; course complete) | ✅ Done |
 
 **Legend:** ✅ Done · ▶️ Up next · ⬜ Not started · 🔁 Flagged for review
 

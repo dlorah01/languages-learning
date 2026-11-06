@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: home
 title: "Home"
+nav_order: 1
+permalink: /
 ---
 
 # From Advanced to Near-Native English
@@ -72,53 +74,53 @@ Welcome — this is the full lesson archive for the course. 10 phases, 78 lesson
 - [Lesson 43 — Dependent Prepositions](./43_Prepositions_DependentPrepositions.html) ✅
 
 ## Phase 4 — Phrasal Verbs
-- Lesson 44 — Phrasal Verbs with GET ▶️ *up next*
-- Lesson 45 — Phrasal Verbs with TAKE
-- Lesson 46 — Phrasal Verbs with PUT
-- Lesson 47 — Phrasal Verbs with COME / GO
-- Lesson 48 — Phrasal Verbs with BREAK / TURN / SET
-- Lesson 49 — Phrasal Verbs with LOOK / CARRY / BRING
-- Lesson 50 — High-Frequency Business & Academic Phrasal Verbs
+- [Lesson 44 — Phrasal Verbs with GET](./44_PhrasalVerbs_GET.html) ✅
+- [Lesson 45 — Phrasal Verbs with TAKE](./45_PhrasalVerbs_TAKE.html) ✅
+- [Lesson 46 — Phrasal Verbs with PUT](./46_PhrasalVerbs_PUT.html) ✅
+- [Lesson 47 — Phrasal Verbs with COME / GO](./47_PhrasalVerbs_COME_GO.html) ✅
+- [Lesson 48 — Phrasal Verbs with BREAK / TURN / SET](./48_PhrasalVerbs_BREAK_TURN_SET.html) ✅
+- [Lesson 49 — Phrasal Verbs with LOOK / CARRY / BRING](./49_PhrasalVerbs_LOOK_CARRY_BRING.html) ✅
+- [Lesson 50 — High-Frequency Business & Academic Phrasal Verbs](./50_PhrasalVerbs_BusinessAcademic.html) ✅
 
 ## Phase 5 — Vocabulary as a System
-- Lesson 51 — Chunks, Not Words
-- Lesson 52 — Collocations I: Verb+Noun, Adjective+Noun
-- Lesson 53 — Collocations II: Adverb+Adjective, Intensifiers
-- Lesson 54 — Synonym Precision
-- Lesson 55 — Register Ladders
-- Lesson 56 — Academic Vocabulary & Nominalization
-- Lesson 57 — Business & Professional Vocabulary
-- Lesson 58 — Idioms by Frequency
+- [Lesson 51 — Chunks, Not Words](./51_Vocabulary_ChunksNotWords.html) ✅
+- [Lesson 52 — Collocations I: Verb+Noun, Adjective+Noun](./52_Vocabulary_CollocationsI.html) ✅
+- [Lesson 53 — Collocations II: Adverb+Adjective, Intensifiers](./53_Vocabulary_CollocationsII.html) ✅
+- [Lesson 54 — Synonym Precision](./54_Vocabulary_SynonymPrecision.html) ✅
+- [Lesson 55 — Register Ladders](./55_Vocabulary_RegisterLadders.html) ✅
+- [Lesson 56 — Academic Vocabulary & Nominalization](./56_Vocabulary_AcademicNominalization.html) ✅
+- [Lesson 57 — Business & Professional Vocabulary](./57_Vocabulary_BusinessProfessional.html) ✅
+- [Lesson 58 — Idioms by Frequency](./58_Vocabulary_IdiomsByFrequency.html) ✅
 
 ## Phase 6 — Natural, Spoken English
-- Lesson 59 — Hedging & Softening Language
-- Lesson 60 — Filler & Discourse Words
-- Lesson 61 — Agreement, Disagreement & Diplomatic Pushback
-- Lesson 62 — Small Talk & Conversational Rituals
-- Lesson 63 — Turn-Taking & Interrupting Politely
+- [Lesson 59 — Hedging & Softening Language](./59_Spoken_HedgingSoftening.html) ✅
+- [Lesson 60 — Filler & Discourse Words](./60_Spoken_FillersDiscourse.html) ✅
+- [Lesson 61 — Agreement, Disagreement & Diplomatic Pushback](./61_Spoken_AgreementDisagreement.html) ✅
+- [Lesson 62 — Small Talk & Conversational Rituals](./62_Spoken_SmallTalk.html) ✅
+- [Lesson 63 — Turn-Taking & Interrupting Politely](./63_Spoken_TurnTaking.html) ✅
 
 ## Phase 7 — Pronunciation & the Sound System
-- Lesson 64 — IPA Essentials for Spanish Speakers
-- Lesson 65 — Word Stress & Sentence Stress
-- Lesson 66 — Rhythm & Timing
-- Lesson 67 — Connected Speech: Linking, Reductions, Weak Forms
-- Lesson 68 — Intonation & Meaning
+- [Lesson 64 — IPA Essentials for Spanish Speakers](./64_Pronunciation_IPAEssentials.html) ✅
+- [Lesson 65 — Word Stress & Sentence Stress](./65_Pronunciation_WordSentenceStress.html) ✅
+- [Lesson 66 — Rhythm & Timing](./66_Pronunciation_RhythmTiming.html) ✅
+- [Lesson 67 — Connected Speech: Linking, Reductions, Weak Forms](./67_Pronunciation_ConnectedSpeech.html) ✅
+- [Lesson 68 — Intonation & Meaning](./68_Pronunciation_IntonationMeaning.html) ✅
 
 ## Phase 8 — Listening & Speaking Fluency
-- Lesson 69 — Decoding Fast Native Speech
-- Lesson 70 — Real-Time Speaking Strategies
-- Lesson 71 — Sounding Natural vs. Sounding Translated
+- [Lesson 69 — Decoding Fast Native Speech](./69_Listening_DecodingFastSpeech.html) ✅
+- [Lesson 70 — Real-Time Speaking Strategies](./70_Speaking_RealTimeStrategies.html) ✅
+- [Lesson 71 — Sounding Natural vs. Sounding Translated](./71_Speaking_NaturalVsTranslated.html) ✅
 
 ## Phase 9 — Writing
-- Lesson 72 — Professional Email Writing
-- Lesson 73 — Academic Writing Conventions
-- Lesson 74 — Casual/Personal Writing
-- Lesson 75 — Tone, Style & Clarity Editing
+- [Lesson 72 — Professional Email Writing](./72_Writing_ProfessionalEmail.html) ✅
+- [Lesson 73 — Academic Writing Conventions](./73_Writing_AcademicConventions.html) ✅
+- [Lesson 74 — Casual/Personal Writing](./74_Writing_CasualPersonal.html) ✅
+- [Lesson 75 — Tone, Style & Clarity Editing](./75_Writing_ToneStyleClarity.html) ✅
 
 ## Phase 10 — Culture & Integration
-- Lesson 76 — Cultural Pragmatics
-- Lesson 77 — US vs. UK: Systematic Differences Recap
-- Lesson 78 — Comprehensive Mixed-Review Modules
+- [Lesson 76 — Cultural Pragmatics](./76_Culture_Pragmatics.html) ✅
+- [Lesson 77 — US vs. UK: Systematic Differences Recap](./77_Culture_USvsUK.html) ✅
+- [Lesson 78 — Comprehensive Mixed-Review Modules](./78_Review_MixedModules.html) ✅ 🎓 *course complete — reuse weekly*
 
 ---
 
