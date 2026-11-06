@@ -103,7 +103,7 @@ Each lesson file will include:
 
 ## 7. Progress Tracker
 
-> **Current position: Phase 4 (Native Naturalness) — Lesson 48 up next.**
+> **Current position: Phase 5 (Mastery & Maintenance) — Lesson 101 up next. (Core curriculum completed with the Final Capstone, Lesson 79; now in maintenance and optional deep dives.)**
 > This tracker is updated after every completed lesson, without needing to be asked.
 
 | # | Lesson | Phase | Axes trained | Status |
@@ -155,7 +155,60 @@ Each lesson file will include:
 | 45 | Listening Strategies for Native Speed — Decoding Reductions and Fast Speech | 3 | Listening, Phonology | ✅ Completed |
 | 46 | Phase 3 Capstone Review — Full Assessment Before Phase 4 | 3 | All Phase 3 axes | ✅ Completed |
 | 47 | Full Register Command — Formal, Neutral, and Vernacular French Side by Side | 4 | Pragmatics, Lexicon, Discourse | ✅ Completed |
-| 48 | Idioms Tier 2 — Intermediate Frequency and Domain-Specific Expressions | 4 | Lexicon | 🔜 Up next |
+| 48 | Idioms Tier 2 — Intermediate Frequency and Domain-Specific Expressions | 4 | Lexicon | ✅ Completed |
+| 49 | Collocations — Why Native Speech Sounds Natural | 4 | Lexicon | ✅ Completed |
+| 50 | Prepositions Revisited — Why Natives Choose One Over Another | 4 | Lexicon, Morphosyntax | ✅ Completed |
+| 51 | Writing in French — Emails, Messages, and Short Texts | 4 | Productive fluency, Discourse | ✅ Completed |
+| 52 | Phase 4 Interleaved Review #1 — Register, Idioms, Collocations, Prepositions, Writing | 4 | All Phase 4 axes so far | ✅ Completed |
+| 53 | Technical and Professional Vocabulary for Your Field | 4 | Lexicon, Discourse | ✅ Completed |
+| 54 | Emotional and Interpersonal Vocabulary — Nuance, Intensity, and Subtext | 4 | Lexicon, Pragmatics | ✅ Completed |
+| 55 | Reading — From Graded Readers to Your First Real French Texts | 4 | Reading, Lexicon | ✅ Completed |
+| 56 | Immersion Ladder — Podcasts, Series, Films, and Creators by Level | 4 | Listening, Cultural | ✅ Completed |
+| 57 | Phase 4 Interleaved Review #2 | 4 | All axes | ✅ Completed |
+| 58 | Subjunctive Mastery — Edge Cases, Triggers, and the Literary Moods | 4 | Morphosyntax, Reading | ✅ Completed |
+| 59 | Pronunciation Polish — Prosody, Rhythm, and Accent Reduction | 4 | Phonology, Productive fluency | ✅ Completed |
+| 60 | Literary French — Reading a Short Story Closely | 4 | Reading, Cultural | ✅ Completed |
+| 61 | Phase 4 Capstone Review | 4 | All axes | ✅ Completed |
+| 62 | Phase 5 Kickoff — Designing Your Personal Mastery System | 5 | All axes | ✅ Completed |
+| 63 | The Francophone World — Accents, Regional Vocabulary, and Variation | 5 | Listening, Cultural, Lexicon | ✅ Completed |
+| 64 | Advanced Written French — Essays, Argumentation, and Style | 5 | Discourse, Writing | ✅ Completed |
+| 65 | Rhetoric and Wordplay — Figures of Speech, Irony, and Persuasion | 5 | Pragmatics, Cultural | ✅ Completed |
+| 66 | Professional Mastery — Meetings, Negotiation, and Presentations | 5 | Pragmatics, Productive fluency | ✅ Completed |
+| 67 | Phase 5 Interleaved Review #1 | 5 | All axes | ✅ Completed |
+| 68 | Spoken Storytelling and Conversation Management | 5 | Productive fluency, Pragmatics | ✅ Completed |
+| 69 | Cultural Literacy — History, Institutions, and Shared References | 5 | Cultural, Reading | ✅ Completed |
+| 70 | Grammar Fine Points — Participle Agreement, Tricky Spellings, and Orthography | 5 | Morphosyntax, Writing | ✅ Completed |
+| 71 | Thinking in French — Inner Monologue and Translation-Free Cognition | 5 | Productive fluency, Discourse | ✅ Completed |
+| 72 | Phase 5 Interleaved Review #2 | 5 | All axes | ✅ Completed |
+| 73 | Proverbs, Sayings, and Idioms — Tier 3 | 5 | Lexicon, Cultural | ✅ Completed |
+| 74 | Journalistic and Media French — Reading the News Critically | 5 | Reading, Listening, Lexicon | ✅ Completed |
+| 75 | Administrative French — Forms, Bureaucracy, and Official Life | 5 | Lexicon, Pragmatics | ✅ Completed |
+| 76 | Language in Society — Anglicisms, Language Policy, and Inclusive Writing | 5 | Cultural, Pragmatics | ✅ Completed |
+| 77 | Phase 5 Interleaved Review #3 | 5 | All axes | ✅ Completed |
+| 78 | Translation and Mediation — Moving Between Spanish, English, and French | 5 | Lexicon, Discourse, Pragmatics | ✅ Completed |
+| 79 | Final Capstone — Mastery Assessment and Your Long-Term Plan | 5 | All axes | ✅ Completed |
+| 80 | Maintenance Mode — Monthly Review Cycles and Optional Deep Dives | 5 | All axes | ✅ Completed |
+| 81 | Deep Dive 1 — Legal and Contractual French | 5 | Lexicon, Reading | ✅ Completed |
+| 82 | Deep Dive 2 — Medical and Health French | 5 | Lexicon, Listening | ✅ Completed |
+| 83 | Deep Dive 3 — Test Preparation: DELF B2, DALF C1/C2, and TCF | 5 | All axes | ✅ Completed |
+| 84 | Deep Dive 4 — Etymology and Word Families | 5 | Lexicon, Cultural | ✅ Completed |
+| 85 | Deep Dive 5 — Advanced Grammar Clinic | 5 | Morphosyntax, Writing | ✅ Completed |
+| 86 | Deep Dive 6 — Poetry and Versification | 5 | Phonology, Cultural | ✅ Completed |
+| 87 | Deep Dive 7 — Humor, Satire, and Stand-up | 5 | Pragmatics, Cultural, Listening | ✅ Completed |
+| 88 | Deep Dive 8 — The Listening Lab: Cinema, Series, and Spoken Corpora | 5 | Listening, Phonology | ✅ Completed |
+| 89 | Deep Dive 9 — The Speaking Lab: Debate and Spontaneous Argumentation | 5 | Productive fluency, Discourse | ✅ Completed |
+| 90 | Deep Dive 10 — The Writing Studio: Long-Form, Editing, and Personal Style | 5 | Writing, Discourse | ✅ Completed |
+| 91 | Deep Dive 11 — Technical Writing and Documentation in French | 5 | Writing, Lexicon, Professional | ✅ Completed |
+| 92 | Deep Dive 12 — Your Personal Capstone Project | 5 | All axes | ✅ Completed |
+| 93 | Deep Dive 13 — A Guided Francophone Canon | 5 | Cultural, Reading | ✅ Completed |
+| 94 | Deep Dive 14 — Philosophy and Ideas: Reading Abstract French | 5 | Reading, Lexicon, Discourse | ✅ Completed |
+| 95 | Deep Dive 15 — Everyday Life, Food, and Culture in Practice | 5 | Lexicon, Pragmatics, Cultural | ✅ Completed |
+| 96 | Deep Dive 16 — Living, Studying, and Working in a Francophone Country | 5 | Pragmatics, Lexicon, Professional | ✅ Completed |
+| 97 | Deep Dive 17 — Music, Song, and Popular Culture | 5 | Listening, Phonology, Cultural | ✅ Completed |
+| 98 | Deep Dive 18 — Teaching and Explaining French: Becoming a Language Mentor | 5 | All axes | ✅ Completed |
+| 99 | Deep Dive 19 — Annual Review and Next Horizons | 5 | All axes | ✅ Completed |
+| 100 | Centennial Lesson — Your Living Curriculum | 5 | All axes | ✅ Completed |
+| 101 | Open Studio — Your Choice of Topic | 5 | All axes | 🔜 Up next |
 
 *(This table grows as lessons are generated — the file is reissued with updated status after each one, or on request.)*
 
