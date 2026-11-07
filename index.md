@@ -21,14 +21,14 @@ Pick a language below to jump into its roadmap and lessons.
 <a class="lang-card" href="French">
   <span class="lang-flag">🇫🇷</span>
   <p class="lang-name">French</p>
-  <p class="lang-meta">26 lessons · Phase 0-2 complete</p>
+  <p class="lang-meta">100 lessons · Phases 0–5 complete</p>
   <span class="lang-status active">Active</span>
 </a>
 
 <a class="lang-card" href="English">
   <span class="lang-flag">🇬🇧</span>
   <p class="lang-name">English</p>
-  <p class="lang-meta">17 lessons · Phase 0-1 complete</p>
+  <p class="lang-meta">78 lessons · Phases 0–10 complete</p>
   <span class="lang-status active">Active</span>
 </a>
 
