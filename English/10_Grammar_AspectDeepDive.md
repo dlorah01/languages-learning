@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lesson 10 — Aspect Deep Dive: Why "Perfect" and "Continuous" Exist and How They Combine"
+title: 'Lesson 10 — Aspect Deep Dive: Why "Perfect" and "Continuous" Exist and How They Combine'
 nav_order: 11
 ---
 
